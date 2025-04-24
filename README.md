@@ -12,7 +12,7 @@ A simple demo DApp showcasing a blockchain-based medical record system prototype
 
 ## 🚀 Live Demo
 
-Access the live demo hosted on GitHub Pages:**[medicalrecorddemo](https://pseums.github.io/medicalrecorddemo/)**
+Access the live demo hosted on GitHub Pages: **[medicalrecorddemo](https://pseums.github.io/medicalrecorddemo/)**
 
 ## 📋 Prerequisites & How to Use
 
